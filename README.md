@@ -6,4 +6,3 @@
 [GitHub](https://github.com/AbhishekDutt "GitHub")|[LinkedIn](https://www.linkedin.com/in/abhishekdutt01/ "LinkedIn")|[Instagram](https://www.instagram.com/abhishek.dutt/ "Instagram")|[Twitter](https://twitter.com/_AbhishekDutt01 "Twitter")|Switch
 
 Switch Code: <b>SW-7010-0712-7542</b>
-<hr/>
