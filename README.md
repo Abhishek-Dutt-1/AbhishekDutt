@@ -11,4 +11,5 @@
    <img alt="Twitter" src="https://github.com/AbhishekDutt/AbhishekDutt/raw/master/icons/sm-icons-twitter-social-icon-rounded-square-color.png" width="50" height="50">
 </a>
 <hr/>
-Add on Nintendo Switch: <b>SW-7010-0712-7542</b> <img alt="Nintendo Switch" src="https://raw.githubusercontent.com/AbhishekDutt/AbhishekDutt/master/icons/switch_white.png" width="50" height="50">
+
+<img alt="Nintendo Switch" src="https://raw.githubusercontent.com/AbhishekDutt/AbhishekDutt/master/icons/switch_white.png" width="50" height="50" style="float: left;"/> Switch friend code: <b>SW-7010-0712-7542</b>
